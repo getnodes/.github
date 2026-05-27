@@ -1,1 +1,1 @@
-# GetNodes.io | Blockchain RPC Node Provider
+# GetNodes.io | Blockchain JSON RPC Node Provider
